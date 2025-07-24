@@ -1,7 +1,7 @@
 # ☕ 96-Hour Coffee & Code: Python Learning Challenge
 
 Welcome to my Python learning repository!  
-This project is part of my *self-paced "6-Hour Coffee & Code Challenge"*, where I’m dedicating focused time to master Python by learning, practicing, and applying concepts through real code. Each file here is a reflection of the lessons I’ve studied and implemented — it’s my growing digital notebook and sandbox for all things Python.
+This project is part of my *self-paced "96-Hour Coffee & Code Challenge"*, where I’m dedicating focused time to master Python by learning, practicing, and applying concepts through real code. Each file here is a reflection of the lessons I’ve studied and implemented — it’s my growing digital notebook and sandbox for all things Python.
 
 The goal is simple: *Learn by doing. Code with clarity. Build a personal library of reusable, beginner-friendly Python resources* that I can use for future projects or freelance tasks.
 

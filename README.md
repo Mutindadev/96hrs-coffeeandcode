@@ -5,7 +5,7 @@ This project is part of my *self-paced "96-Hour Coffee & Code Challenge"*, where
 
 The goal is simple: *Learn by doing. Code with clarity. Build a personal library of reusable, beginner-friendly Python resources* that I can use for future projects or freelance tasks.
 
----
+----
 
 ## 🚀 What This Repo Is About
 

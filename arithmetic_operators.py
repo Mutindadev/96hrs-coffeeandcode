@@ -1,10 +1,9 @@
-#a = 5
-#b = 2
+# a = 5
+# b = 2
 
-#print(a/b)
+# print(a / b)
 
-weight =74
+weight = 74
 height = 151
 
-print(weight/(height*height))
-
+print(weight / (height * height))

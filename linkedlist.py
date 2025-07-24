@@ -1,32 +1,27 @@
-#singly Linked list
+# singly Linked list
 
-#arr = []->10 ->[]20, []30, 
+# arr = []->10 ->[]20, []30,
 
 
 class Node:
-    def _init_(self,data):
+    def __init__(self, data):
         self.data = data
-        self.data =data
-        self.next =None
+        self.next = None
 
-        class LinkedList:
-            def _init_(self):
-                self.head = None
 
-                def insert_front(self, data):
-                    new_node = Node(data)
-                    new_node.next = self.head
-                    self.head = new_node
-                    
+class LinkedList:
+    def __init__(self):
+        self.head = None
 
-                    #print list
-                    def print_list(self):
-                        curr = self.head
+    def insert_front(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
 
-                        while curr:
-                            print(curr.data, end = "->")
-                            curr = curr.next
-                            print("none")
-
-                        
-
+    # print list
+    def print_list(self):
+        curr = self.head
+        while curr:
+            print(curr.data, end="->")
+            curr = curr.next
+        print("None")

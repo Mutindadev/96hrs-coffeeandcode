@@ -31,5 +31,6 @@ arr.pop(3)
 print(arr)
 
 # Search for a value in the array
+arr = [1, 2, 3, 10]
 if 10 in arr:
     print("Found 10 in the array")
